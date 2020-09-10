@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37edea6b-c0d6-4e0f-b5c5-9395004a801c" name="Default Changelist" comment="" />
+    <list default="true" id="37edea6b-c0d6-4e0f-b5c5-9395004a801c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_09_04_174850_create_restaurantes_table.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +13,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -111,6 +117,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1h1T6ViCutPUcF578siiyPbIynG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -145,6 +152,9 @@
       <workItem from="1599177424578" duration="2168000" />
       <workItem from="1599185214545" duration="669000" />
       <workItem from="1599233278744" duration="4257000" />
+      <workItem from="1599765653651" duration="62000" />
+      <workItem from="1599766013881" duration="352000" />
+      <workItem from="1599766409638" duration="3673000" />
     </task>
     <servers />
   </component>
@@ -156,5 +166,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="493" y="243" key="#Composer/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599184830824" />
+    <state x="309" y="42" key="#Inspections" timestamp="1599769431394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="42" key="#Inspections/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599769431394" />
   </component>
 </project>
